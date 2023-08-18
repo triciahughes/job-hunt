@@ -1,3 +1,10 @@
+import React from "react";
+import Navbar from "./comps/navbar";
+
 export default function Home() {
-  return <div>Data</div>;
+  return (
+    <div>
+      <Navbar />
+    </div>
+  );
 }
