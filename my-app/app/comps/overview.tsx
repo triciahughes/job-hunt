@@ -1,18 +1,43 @@
-import React from "react";
-// import { Tree } from "@d3/Tree";
+"use client";
+import React, { useState, useEffect } from "react";
+import OverviewChart from "../charts/overviewChart";
+import { Margin, Padding } from "@mui/icons-material";
 
 export default function Overview() {
-  function Tree() {
-    return (
-      <div>
-        <h1>Tree</h1>
-      </div>
-    );
-  }
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    getData();
+  }, []);
+
+  const getData = async () => {
+    fetch("http://localhost:3000/api", {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((res) => {
+        return res.json();
+      })
+      .then((data) => {
+        setData(data.data.map((d: any) => d).slice(3));
+      });
+  };
+
   return (
     <div>
-      <h1>Overview</h1>
-      <Tree />
+      <h1
+        style={{
+          padding: 15,
+          textAlign: "center",
+          fontFamily: "Sans-serif",
+          fontWeight: 400,
+        }}
+      >
+        Application Status Overview
+      </h1>
+      <OverviewChart data={data} />
     </div>
   );
 }

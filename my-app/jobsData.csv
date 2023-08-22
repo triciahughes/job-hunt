@@ -1,246 +1,247 @@
-jobs
+jobsData
+jobs,,,,,
 Title,Company,Created at,List,Source,Technical Challenge
-Junior Developer,SoBet,"Aug 17 2023, 03:22 pm",Applied,linkedin.com,NULL
-Javascript Developer,Virtusa,"Aug 17 2023, 03:16 pm",Applied,linkedin.com,NULL
-Software Engineer II,Uplight,"Aug 17 2023, 03:03 pm",Applied,jobvite.com,NULL
-Engineer,Cocoon,"Aug 17 2023, 02:59 pm",Applied,greenhouse.io,NULL
-Software Engineer (Apprentice),Blueprint Digital Advertising Machine,"Aug 17 2023, 02:54 pm",Applied,-,NULL
-Full Stack Engineer,Itemize,"Aug 17 2023, 02:15 pm",Applied,linkedin.com,NULL
-"Junior Security Engineer, Blue Team",BetterHelp,"Aug 17 2023, 02:12 pm",Not Selected,linkedin.com,NULL
-Software Engineer - Integrations,🧣 gently.com,"Aug 17 2023, 02:04 pm",Applied,linkedin.com,NULL
-Full Stack Engineer (Remote),Cleerly,"Aug 17 2023, 01:59 pm",Applied,linkedin.com,NULL
-Software Engineer,Blizzard Entertainment,"Aug 17 2023, 01:55 pm",Applied,linkedin.com,NULL
-"Full-Stack, Web Developer",YETI,"Aug 17 2023, 01:47 pm",Applied,linkedin.com,NULL
-Front End Web Devloper,Russell Tobin,"Aug 17 2023, 01:46 pm",Applied,linkedin.com,NULL
-Full Stack Software Engineer,Walker Bowen Talent Partners,"Aug 17 2023, 10:12 am",Applied,linkedin.com,NULL
-Front End Web Devloper,Satwic,"Aug 17 2023, 10:00 am",Applied,linkedin.com,NULL
+Junior Developer,SoBet,"Aug 17 2023, 03:22 pm",Applied,linkedin.com,FALSE
+Javascript Developer,Virtusa,"Aug 17 2023, 03:16 pm",Applied,linkedin.com,FALSE
+Software Engineer II,Uplight,"Aug 17 2023, 03:03 pm",Applied,jobvite.com,FALSE
+Engineer,Cocoon,"Aug 17 2023, 02:59 pm",Applied,greenhouse.io,FALSE
+Software Engineer (Apprentice),Blueprint Digital Advertising Machine,"Aug 17 2023, 02:54 pm",Applied,-,FALSE
+Full Stack Engineer,Itemize,"Aug 17 2023, 02:15 pm",Applied,linkedin.com,FALSE
+"Junior Security Engineer, Blue Team",BetterHelp,"Aug 17 2023, 02:12 pm",Not Selected,linkedin.com,FALSE
+Software Engineer - Integrations,🧣 gently.com,"Aug 17 2023, 02:04 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer (Remote),Cleerly,"Aug 17 2023, 01:59 pm",Applied,linkedin.com,FALSE
+Software Engineer,Blizzard Entertainment,"Aug 17 2023, 01:55 pm",Applied,linkedin.com,FALSE
+"Full-Stack, Web Developer",YETI,"Aug 17 2023, 01:47 pm",Applied,linkedin.com,FALSE
+Front End Web Devloper,Russell Tobin,"Aug 17 2023, 01:46 pm",Applied,linkedin.com,FALSE
+Full Stack Software Engineer,Walker Bowen Talent Partners,"Aug 17 2023, 10:12 am",Applied,linkedin.com,FALSE
+Front End Web Devloper,Satwic,"Aug 17 2023, 10:00 am",Applied,linkedin.com,FALSE
 Software Engineer,Sun West Mortgage Co,"Aug 17 2023, 09:35 am",Interview,-,TRUE
-"Software Engineer, Destinations",Airbyte,"Aug 16 2023, 02:43 pm",Not Selected,linkedin.com,NULL
-Full Stack Engineer,clearpol,"Aug 16 2023, 02:40 pm",Applied,linkedin.com,NULL
+"Software Engineer, Destinations",Airbyte,"Aug 16 2023, 02:43 pm",Not Selected,linkedin.com,FALSE
+Full Stack Engineer,clearpol,"Aug 16 2023, 02:40 pm",Applied,linkedin.com,FALSE
 Software Engineer | Frontend,Ramp,"Aug 16 2023, 02:40 pm",Not Selected,linkedin.com,TRUE
-Full Stack Engineer,Seek AI,"Aug 16 2023, 01:21 pm",Applied,linkedin.com,NULL
-Software Development Engineer,Zillow,"Aug 16 2023, 01:20 pm",Applied,linkedin.com,NULL
-Software Engineer (Frontend),Cookin,"Aug 16 2023, 01:07 pm",Applied,linkedin.com,NULL
-Software Engineer,TheTechnicalTraders,"Aug 16 2023, 01:06 pm",Applied,linkedin.com,NULL
-AR/VR Software Engineer,Toltech,"Aug 16 2023, 01:05 pm",Applied,linkedin.com,NULL
-Fullstack Developer,s44,"Aug 16 2023, 01:03 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,morphood,"Aug 16 2023, 01:01 pm",Applied,linkedin.com,NULL
-React/Next.js Developer,The Casely Group,"Aug 16 2023, 11:32 am",Applied,linkedin.com,NULL
-"Full Stack Engineer, Billing",Stripe,"Aug 16 2023, 11:30 am",Not Selected,linkedin.com,NULL
-Frontend Developer,Storm4,"Aug 16 2023, 11:28 am",Applied,linkedin.com,NULL
-Software Engineer,Replo,"Aug 16 2023, 11:08 am",Applied,linkedin.com,NULL
-"Design Engineer, Web",Retool,"Aug 16 2023, 11:07 am",Applied,linkedin.com,NULL
-"Software Engineer, AV-CV",System Scale,"Aug 16 2023, 11:04 am",Not Selected,linkedin.com,NULL
-"Software Engineer, Account and User Experience",Probably Genetic,"Aug 16 2023, 11:02 am",Applied,linkedin.com,NULL
-Full Stack Java Developer (Direct-to-Consumer Platforms),SKECHERS,"Aug 15 2023, 06:13 pm",Applied,linkedin.com,NULL
-Full Stack Engineer (Javascript) - Tech Scale-up - $120-150k+,ORBIS,"Aug 15 2023, 06:12 pm",Applied,linkedin.com,NULL
-Frontend Engineer - Web Foundations - Cash App,Cash App,"Aug 15 2023, 05:45 pm",Applied,linkedin.com,NULL
-Front-End Software Engineer (Remote),NimbusPost,"Aug 15 2023, 05:45 pm",Applied,linkedin.com,NULL
-Software Engineer,Celligence,"Aug 15 2023, 05:28 pm",Applied,linkedin.com,NULL
-Front-End Engineer,Journalytic,"Aug 15 2023, 05:28 pm",Applied,linkedin.com,NULL
-Software Engineer (Frontend),Operant,"Aug 15 2023, 05:27 pm",Applied,linkedin.com,NULL
-Senior Front End Engineer,Arena Club,"Aug 15 2023, 05:20 pm",Applied,linkedin.com,NULL
-Software Engineer Intern,PayPal,"Aug 15 2023, 05:17 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,"Visual Labs, Inc., a Versaterm Public Safety company","Aug 14 2023, 10:26 am",Applied,linkedin.com,NULL
-Frontend Software Engineer,Capabuild,"Aug 11 2023, 10:46 am",Applied,wellfound.com,NULL
-Software Engineer - Full-Stack (Django-React),BrightestGames,"Aug 11 2023, 10:45 am",Applied,wellfound.com,NULL
-Software Engineer,Cultivated Culture,"Aug 11 2023, 10:44 am",Applied,wellfound.com,NULL
-Frontend Engineer (remote),Caviar,"Aug 11 2023, 10:42 am",Applied,wellfound.com,NULL
-Full-Stack Software Engineer,Chezie,"Aug 11 2023, 10:41 am",Applied,wellfound.com,NULL
-Software Engineer,Compa,"Aug 11 2023, 10:40 am",Applied,wellfound.com,NULL
-Software Engineer,CallidusAI,"Aug 11 2023, 10:39 am",Applied,wellfound.com,NULL
-Senior Software Engineer,Wingspan Optics,"Aug 11 2023, 10:39 am",Applied,wellfound.com,NULL
-Software Engineer,Cyber Manufacture Co.,"Aug 11 2023, 10:37 am",Applied,wellfound.com,NULL
-Software Engineer,Squint,"Aug 11 2023, 10:36 am",Applied,wellfound.com,NULL
-Full Stack Engineer,Superorder,"Aug 11 2023, 10:34 am",Applied,wellfound.com,NULL
-Frontend Engineer (Next.js) at Approximate Labs,Approximated.app,"Aug 11 2023, 10:33 am",Applied,wellfound.com,NULL
-Software Engineer (Remote),Raptor Maps — Solar Software,"Aug 11 2023, 09:52 am",Applied,remoterocketship.com,NULL
-Software Engineer,Lyra Health,"Aug 11 2023, 09:50 am",Not Selected,remoterocketship.com,NULL
-Software Engineer,Expert Institute,"Aug 11 2023, 09:49 am",Applied,remoterocketship.com,NULL
-Junior Developer,Sevaa Group,"Aug 11 2023, 09:46 am",Applied,remoterocketship.com,NULL
-Full Stack Web Engineer [Remote-USA],"credativ LLC, An Instaclustr Company","Aug 11 2023, 09:45 am",Applied,remoterocketship.com,NULL
-Junior Experience Developer (Contract),Xcel Agency,"Aug 11 2023, 09:44 am",Applied,remoterocketship.com,NULL
-Backend Developer (Internal Posting),DaySmartRecreation,"Aug 11 2023, 09:38 am",Applied,remoterocketship.com,NULL
-Frontend Full Stack Engineer,Sigmaways,"Aug 10 2023, 03:21 pm",Applied,linkedin.com,NULL
-Junior Front End / Full Stack Software Engineer,Frameable,"Aug 10 2023, 09:17 am",Applied,frameable.com,NULL
-"Front-End Software Engineer, IXL Product",IXL Learning,"Aug 10 2023, 09:16 am",Applied,ixl.com,NULL
-"Software Engineer, New Grad",IXL Learning,"Aug 10 2023, 09:15 am",Applied,ixl.com,NULL
-Datacenter Operations,The Reynolds and Reynolds Company,"Aug 10 2023, 09:15 am",Not Selected,reyrey.com,NULL
-Research and Development Developer - job post,Strategic Employment Partners,"Aug 04 2023, 11:01 am",Applied,indeed.com,NULL
-Front-End Web Developer - job post,Software Resources,"Aug 04 2023, 11:00 am",Applied,indeed.com,NULL
-Solutions Software Engineer 4 - job post,Netflix,"Aug 04 2023, 10:48 am",Applied,indeed.com,NULL
-Full Stack Engineer - Audiobooks,Spotify,"Aug 02 2023, 10:07 am",Not Selected,linkedin.com,NULL
-Front End Product Software Engineer,Dropbox,"Aug 02 2023, 09:52 am",Not Selected,linkedin.com,NULL
-"Software Development Engineer - Fullstack, Special Projects",Amazon,"Aug 02 2023, 09:42 am",Not Selected,linkedin.com,NULL
-Senior Software Engineer- Esports,Riot Games,"Jul 24 2023, 03:58 pm",Not Selected,linkedin.com,NULL
-Junior Web Developer,Sony,"Jul 24 2023, 03:48 pm",Applied,linkedin.com,NULL
-Lead Software Engineer,"Liberty Personnel Services, Inc.","Jul 24 2023, 10:22 am",Applied,linkedin.com,NULL
-Lead Software Engineer,"Liberty Personnel Services, Inc.","Jul 24 2023, 10:22 am",Applied,linkedin.com,NULL
-Full Stack Engineer,vitaltech,"Jul 24 2023, 10:21 am",Applied,linkedin.com,NULL
-Gameplay Software Engineer - The Sims,Maxis Studios - EA,"Jul 21 2023, 05:24 pm",Applied,linkedin.com,NULL
-Backend Engineer,Lightspark,"Jul 21 2023, 05:24 pm",Applied,linkedin.com,NULL
-Full Stack Developer (React/Node) - Remote,Vaco,"Jul 21 2023, 05:23 pm",Applied,linkedin.com,NULL
-Full Stack Developer,Sports Research,"Jul 21 2023, 05:22 pm",Applied,linkedin.com,NULL
-"Senior Frontend Software Engineer (React, Typescript)",ZEAL,"Jul 20 2023, 11:34 am",Not Selected,linkedin.com,NULL
-"Software Engineer, Simulation Platforms",Lyft,"Jul 20 2023, 11:32 am",Applied,linkedin.com,NULL
-Front End Engineer (React/Next),Strategic Employment Partners,"Jul 20 2023, 11:23 am",Applied,linkedin.com,NULL
-"Systems Software Engineer, TAO Toolkit",NVIDIA,"Jul 20 2023, 11:21 am",Not Selected,linkedin.com,NULL
-Software Development Engineer,Amazon,"Jul 20 2023, 11:03 am",Not Selected,linkedin.com,NULL
-Junior Software Engineer,Insight Global,"Jul 20 2023, 10:56 am",Applied,linkedin.com,NULL
-Full Stack Engineer - API Team,Cloudflare,"Jul 19 2023, 01:01 pm",Not Selected,linkedin.com,NULL
-Full Stack Engineer,Storm 2,"Jul 18 2023, 01:38 pm",Applied,linkedin.com,NULL
+Full Stack Engineer,Seek AI,"Aug 16 2023, 01:21 pm",Applied,linkedin.com,FALSE
+Software Development Engineer,Zillow,"Aug 16 2023, 01:20 pm",Applied,linkedin.com,FALSE
+Software Engineer (Frontend),Cookin,"Aug 16 2023, 01:07 pm",Applied,linkedin.com,FALSE
+Software Engineer,TheTechnicalTraders,"Aug 16 2023, 01:06 pm",Applied,linkedin.com,FALSE
+AR/VR Software Engineer,Toltech,"Aug 16 2023, 01:05 pm",Applied,linkedin.com,FALSE
+Fullstack Developer,s44,"Aug 16 2023, 01:03 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,morphood,"Aug 16 2023, 01:01 pm",Applied,linkedin.com,FALSE
+React/Next.js Developer,The Casely Group,"Aug 16 2023, 11:32 am",Applied,linkedin.com,FALSE
+"Full Stack Engineer, Billing",Stripe,"Aug 16 2023, 11:30 am",Not Selected,linkedin.com,FALSE
+Frontend Developer,Storm4,"Aug 16 2023, 11:28 am",Applied,linkedin.com,FALSE
+Software Engineer,Replo,"Aug 16 2023, 11:08 am",Applied,linkedin.com,FALSE
+"Design Engineer, Web",Retool,"Aug 16 2023, 11:07 am",Applied,linkedin.com,FALSE
+"Software Engineer, AV-CV",System Scale,"Aug 16 2023, 11:04 am",Not Selected,linkedin.com,FALSE
+"Software Engineer, Account and User Experience",Probably Genetic,"Aug 16 2023, 11:02 am",Applied,linkedin.com,FALSE
+Full Stack Java Developer (Direct-to-Consumer Platforms),SKECHERS,"Aug 15 2023, 06:13 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer (Javascript) - Tech Scale-up - $120-150k+,ORBIS,"Aug 15 2023, 06:12 pm",Applied,linkedin.com,FALSE
+Frontend Engineer - Web Foundations - Cash App,Cash App,"Aug 15 2023, 05:45 pm",Applied,linkedin.com,FALSE
+Front-End Software Engineer (Remote),NimbusPost,"Aug 15 2023, 05:45 pm",Applied,linkedin.com,FALSE
+Software Engineer,Celligence,"Aug 15 2023, 05:28 pm",Applied,linkedin.com,FALSE
+Front-End Engineer,Journalytic,"Aug 15 2023, 05:28 pm",Applied,linkedin.com,FALSE
+Software Engineer (Frontend),Operant,"Aug 15 2023, 05:27 pm",Applied,linkedin.com,FALSE
+Senior Front End Engineer,Arena Club,"Aug 15 2023, 05:20 pm",Applied,linkedin.com,FALSE
+Software Engineer Intern,PayPal,"Aug 15 2023, 05:17 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,"Visual Labs, Inc., a Versaterm Public Safety company","Aug 14 2023, 10:26 am",Applied,linkedin.com,FALSE
+Frontend Software Engineer,Capabuild,"Aug 11 2023, 10:46 am",Applied,wellfound.com,FALSE
+Software Engineer - Full-Stack (Django-React),BrightestGames,"Aug 11 2023, 10:45 am",Applied,wellfound.com,FALSE
+Software Engineer,Cultivated Culture,"Aug 11 2023, 10:44 am",Applied,wellfound.com,FALSE
+Frontend Engineer (remote),Caviar,"Aug 11 2023, 10:42 am",Applied,wellfound.com,FALSE
+Full-Stack Software Engineer,Chezie,"Aug 11 2023, 10:41 am",Applied,wellfound.com,FALSE
+Software Engineer,Compa,"Aug 11 2023, 10:40 am",Applied,wellfound.com,FALSE
+Software Engineer,CallidusAI,"Aug 11 2023, 10:39 am",Applied,wellfound.com,FALSE
+Senior Software Engineer,Wingspan Optics,"Aug 11 2023, 10:39 am",Applied,wellfound.com,FALSE
+Software Engineer,Cyber Manufacture Co.,"Aug 11 2023, 10:37 am",Applied,wellfound.com,FALSE
+Software Engineer,Squint,"Aug 11 2023, 10:36 am",Applied,wellfound.com,FALSE
+Full Stack Engineer,Superorder,"Aug 11 2023, 10:34 am",Applied,wellfound.com,FALSE
+Frontend Engineer (Next.js) at Approximate Labs,Approximated.app,"Aug 11 2023, 10:33 am",Applied,wellfound.com,FALSE
+Software Engineer (Remote),Raptor Maps — Solar Software,"Aug 11 2023, 09:52 am",Applied,remoterocketship.com,FALSE
+Software Engineer,Lyra Health,"Aug 11 2023, 09:50 am",Not Selected,remoterocketship.com,FALSE
+Software Engineer,Expert Institute,"Aug 11 2023, 09:49 am",Applied,remoterocketship.com,FALSE
+Junior Developer,Sevaa Group,"Aug 11 2023, 09:46 am",Applied,remoterocketship.com,FALSE
+Full Stack Web Engineer [Remote-USA],"credativ LLC, An Instaclustr Company","Aug 11 2023, 09:45 am",Applied,remoterocketship.com,FALSE
+Junior Experience Developer (Contract),Xcel Agency,"Aug 11 2023, 09:44 am",Applied,remoterocketship.com,FALSE
+Backend Developer (Internal Posting),DaySmartRecreation,"Aug 11 2023, 09:38 am",Applied,remoterocketship.com,FALSE
+Frontend Full Stack Engineer,Sigmaways,"Aug 10 2023, 03:21 pm",Applied,linkedin.com,FALSE
+Junior Front End / Full Stack Software Engineer,Frameable,"Aug 10 2023, 09:17 am",Applied,frameable.com,FALSE
+"Front-End Software Engineer, IXL Product",IXL Learning,"Aug 10 2023, 09:16 am",Applied,ixl.com,FALSE
+"Software Engineer, New Grad",IXL Learning,"Aug 10 2023, 09:15 am",Applied,ixl.com,FALSE
+Datacenter Operations,The Reynolds and Reynolds Company,"Aug 10 2023, 09:15 am",Not Selected,reyrey.com,FALSE
+Research and Development Developer - job post,Strategic Employment Partners,"Aug 04 2023, 11:01 am",Applied,indeed.com,FALSE
+Front-End Web Developer - job post,Software Resources,"Aug 04 2023, 11:00 am",Applied,indeed.com,FALSE
+Solutions Software Engineer 4 - job post,Netflix,"Aug 04 2023, 10:48 am",Applied,indeed.com,FALSE
+Full Stack Engineer - Audiobooks,Spotify,"Aug 02 2023, 10:07 am",Not Selected,linkedin.com,FALSE
+Front End Product Software Engineer,Dropbox,"Aug 02 2023, 09:52 am",Not Selected,linkedin.com,FALSE
+"Software Development Engineer - Fullstack, Special Projects",Amazon,"Aug 02 2023, 09:42 am",Not Selected,linkedin.com,FALSE
+Senior Software Engineer- Esports,Riot Games,"Jul 24 2023, 03:58 pm",Not Selected,linkedin.com,FALSE
+Junior Web Developer,Sony,"Jul 24 2023, 03:48 pm",Applied,linkedin.com,FALSE
+Lead Software Engineer,"Liberty Personnel Services, Inc.","Jul 24 2023, 10:22 am",Applied,linkedin.com,FALSE
+Lead Software Engineer,"Liberty Personnel Services, Inc.","Jul 24 2023, 10:22 am",Applied,linkedin.com,FALSE
+Full Stack Engineer,vitaltech,"Jul 24 2023, 10:21 am",Applied,linkedin.com,FALSE
+Gameplay Software Engineer - The Sims,Maxis Studios - EA,"Jul 21 2023, 05:24 pm",Applied,linkedin.com,FALSE
+Backend Engineer,Lightspark,"Jul 21 2023, 05:24 pm",Applied,linkedin.com,FALSE
+Full Stack Developer (React/Node) - Remote,Vaco,"Jul 21 2023, 05:23 pm",Applied,linkedin.com,FALSE
+Full Stack Developer,Sports Research,"Jul 21 2023, 05:22 pm",Applied,linkedin.com,FALSE
+"Senior Frontend Software Engineer (React, Typescript)",ZEAL,"Jul 20 2023, 11:34 am",Not Selected,linkedin.com,FALSE
+"Software Engineer, Simulation Platforms",Lyft,"Jul 20 2023, 11:32 am",Applied,linkedin.com,FALSE
+Front End Engineer (React/Next),Strategic Employment Partners,"Jul 20 2023, 11:23 am",Applied,linkedin.com,FALSE
+"Systems Software Engineer, TAO Toolkit",NVIDIA,"Jul 20 2023, 11:21 am",Not Selected,linkedin.com,FALSE
+Software Development Engineer,Amazon,"Jul 20 2023, 11:03 am",Not Selected,linkedin.com,FALSE
+Junior Software Engineer,Insight Global,"Jul 20 2023, 10:56 am",Applied,linkedin.com,FALSE
+Full Stack Engineer - API Team,Cloudflare,"Jul 19 2023, 01:01 pm",Not Selected,linkedin.com,FALSE
+Full Stack Engineer,Storm 2,"Jul 18 2023, 01:38 pm",Applied,linkedin.com,FALSE
 Junior Frontend Engineer,dot. cards,"Jul 18 2023, 01:38 pm",Not Selected,linkedin.com,TRUE
-Full Stack Engineer III,Electronic Arts,"Jul 18 2023, 01:31 pm",Not Selected,linkedin.com,NULL
-Software Engineer,SUGARED + BRONZED,"Jul 13 2023, 11:03 am",Applied,linkedin.com,NULL
-Front-End Associate Software Engineer,Transcend Digital,"Jul 13 2023, 11:01 am",Applied,linkedin.com,NULL
-"Frontend Software Engineer, Autopilot AI Tooling/Tesla Bot (3d/Graphics)",Tesla,"Jul 11 2023, 03:59 pm",Applied,linkedin.com,NULL
-Senior Front End Engineer - Maps,Apple,"Jul 07 2023, 04:38 pm",Applied,apple.com,NULL
-Junior Software Development Engineer - Apple Vision Pro,Apple,"Jul 07 2023, 04:37 pm",Applied,apple.com,NULL
-Gameplay Software Engineer - The Sims,Maxis Studios,"Jul 06 2023, 10:41 am",Not Selected,linkedin.com,NULL
-QA R&D Programmer,Naughty Dog Mag',"Jul 06 2023, 10:36 am",Applied,linkedin.com,NULL
-Frontend Engineer,SixMap,"Jun 30 2023, 08:13 pm",Applied,workable.com,NULL
-Catch-all,Perfect Storm Studios,"Jun 30 2023, 12:38 pm",Applied,linkedin.com,NULL
-Mid-Level Web Developer - Remote,MeetKai,"Jun 30 2023, 12:36 pm",Applied,linkedin.com,NULL
-Web Frontend Engineer,Luma AI,"Jun 30 2023, 12:32 pm",Not Selected,linkedin.com,NULL
-Tools and Systems Engineer,Twisted Pixel Games,"Jun 30 2023, 12:21 pm",Applied,metacareers.com,NULL
-Software Engineer II - Front-End / Full-Stack,StubHub,"Jun 27 2023, 12:00 pm",Not Selected,linkedin.com,NULL
-"Frontend Developer, Analytics - Portfolio Company",BCG X,"Jun 27 2023, 11:57 am",Applied,linkedin.com,NULL
-JavaScript Developer (Entry Level),PatternedScience,"Jun 27 2023, 11:53 am",Applied,linkedin.com,NULL
-Front End Web Developer - #1484,MeridianLink,"Jun 27 2023, 11:49 am",Applied,linkedin.com,NULL
-Front End Engineer,Cloudflare,"Jun 27 2023, 11:46 am",Not Selected,linkedin.com,NULL
-"Front End Engineer, Factory Software",Tesla,"Jun 20 2023, 03:57 pm",Applied,linkedin.com,NULL
-Front-End Software Engineer,SandboxAQ,"Jun 20 2023, 03:50 pm",Applied,linkedin.com,NULL
-Frontend Software Engineer,Tailscale,"Jun 20 2023, 03:49 pm",Applied,linkedin.com,NULL
-React Developer (100% remote),"Liberty Personnel Services, Inc.","Jun 20 2023, 03:46 pm",Applied,linkedin.com,NULL
-100% Remote - Front End Developer,Launching Point,"Jun 20 2023, 03:39 pm",Applied,linkedin.com,NULL
-Junior Software Engineer (Full stack),Praxis Labs,"Jun 15 2023, 02:02 pm",Applied,lever.co,NULL
-Software Engineer,Art Blocks,"Jun 15 2023, 01:56 pm",Applied,lever.co,NULL
-Frontend Developer,hackajob,"Jun 15 2023, 01:45 pm",Applied,linkedin.com,NULL
-"Software Engineer, Front End-Reality Labs",Meta,"Jun 15 2023, 07:58 am",Applied,linkedin.com,NULL
-"Software Engineer II, Pipelines & Workflows - Valorant",Riot Games,"Jun 15 2023, 07:53 am",Not Selected,linkedin.com,NULL
-Build Automation Engineer - Infinity Ward,Infinity Ward,"Jun 12 2023, 12:08 pm",Not Selected,infinityward.com,NULL
-Front End or Full Stack Developer,Mintplex,"Jun 12 2023, 11:46 am",Applied,ycombinator.com,NULL
-\nSoftware Engineer - Gameplay (Narrative - Open Story),Electronic Arts,"Jun 12 2023, 09:32 am",Not Selected,gr8people.com,NULL
-Tools Engineer - Unreal  (Star Wars FPS),Electronic Arts,"Jun 12 2023, 09:30 am",Applied,gr8people.com,NULL
-Animation Tools Programmer,PlayStation,"Jun 12 2023, 09:12 am",Not Selected,linkedin.com,NULL
-Software Engineer II,PlayStation,"Jun 12 2023, 09:09 am",Applied,linkedin.com,NULL
-"Staff Software Engineer, Tools & Pipeline - Unpublished R&D Product",Riot Games,"Jun 12 2023, 09:02 am",Not Selected,linkedin.com,NULL
-Front end Developer -,TheHive_Freelancing,"Jun 07 2023, 12:56 pm",Applied,linkedin.com,NULL
-Software Engineer,Pomelo,"Jun 07 2023, 12:41 pm",Applied,linkedin.com,NULL
-Software Engineer,Kickstarter,"Jun 07 2023, 12:28 pm",Applied,linkedin.com,NULL
-"Software Engineer, NBC News Digital",NBC News,"Jun 06 2023, 03:48 pm",Not Selected,linkedin.com,NULL
-Full-Stack Engineer,Tomedes,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,NULL
-Frontend Developer,Hank,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,NULL
-Frontend Enginer,Voltaiq,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,NULL
-Frontend Engineer,Ground signal,"Jun 05 2023, 03:19 pm",Not Selected,wellfound.com,NULL
-Software Engineer - Full Stack at Numeral,Numeral,"Jun 05 2023, 03:01 pm",Not Selected,wellfound.com,NULL
-"Software Engineer, Growth",Podium,"Jun 01 2023, 06:21 pm",Applied,linkedin.com,NULL
-Software Engineer,impact.com,"Jun 01 2023, 06:10 pm",Applied,linkedin.com,NULL
-"Experienced Software Engineer - Full Stack (Financial Institutions, Developer Experience)",Plaid,"Jun 01 2023, 06:01 pm",Applied,linkedin.com,NULL
-Frontend Software Engineer (REACT) - Digital Experience,Tesla,"May 30 2023, 06:46 pm",Applied,linkedin.com,NULL
-Software Engineer,Stealth StartUp,"May 30 2023, 05:21 pm",Applied,linkedin.com,NULL
-Founding Engineer,Stealth StartUp,"May 30 2023, 05:19 pm",Applied,linkedin.com,NULL
-Senior Front-end React Developer (Cross-Platform),Ninja Tech Stop,"May 30 2023, 05:16 pm",Not Selected,linkedin.com,NULL
-Front-End Engineer (Energy),Synop,"May 30 2023, 05:14 pm",Applied,linkedin.com,NULL
-Frontend Developer,Organic Return,"May 30 2023, 05:06 pm",Applied,linkedin.com,NULL
-Software Engineer,Bing,"May 30 2023, 04:35 pm",Applied,linkedin.com,NULL
-"Software Engineer, Front-End",Skillable,"May 30 2023, 01:37 pm",Applied,linkedin.com,NULL
-Full Stack Engineer - Integrations,Front,"May 30 2023, 01:29 pm",Not Selected,linkedin.com,NULL
-"Software Engineer, Fullstack",Moveworks,"May 30 2023, 01:22 pm",Not Selected,linkedin.com,NULL
-Software Developer,Protecta Insurance,"May 30 2023, 01:21 pm",Applied,linkedin.com,NULL
-Software Engineer,Peloton,"May 30 2023, 01:19 pm",Not Selected,linkedin.com,NULL
-Software Engineer,Impact,"May 30 2023, 01:15 pm",Applied,linkedin.com,NULL
-Software Engineer I,Bank of America,"May 30 2023, 01:01 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Spatial Labs,"May 30 2023, 12:55 pm",Applied,linkedin.com,NULL
-Associate Software Engineer,Hilton Grand Vacations,"May 30 2023, 12:54 pm",Applied,linkedin.com,NULL
-"Software Engineer II (Full Stack, Growth)",WHOOP,"May 30 2023, 12:46 pm",Not Selected,linkedin.com,NULL
-Web Developer - ReactJS,Insomniac Design,"May 30 2023, 12:21 pm",Applied,linkedin.com,NULL
-Frontend Developer,Gorilla Mind,"May 30 2023, 12:17 pm",Applied,linkedin.com,NULL
-Front End Developer (React),Abbott,"May 30 2023, 12:17 pm",Not Selected,linkedin.com,NULL
-Front-End Engineer,Quadrata,"May 30 2023, 12:11 pm",Applied,linkedin.com,NULL
-Full Stack Web Developer,Multiple,"May 30 2023, 12:09 pm",Applied,linkedin.com,NULL
-Front End Engineer,eBay,"May 30 2023, 10:03 am",Not Selected,linkedin.com,NULL
-Frontend Developer,Retool,"May 30 2023, 09:40 am",Applied,linkedin.com,NULL
-"Software Engineer, Front-End (Grammarly for Developers)",Grammarly,"May 30 2023, 09:38 am",Not Selected,linkedin.com,NULL
-Mid-level Full Stack Engineer,Roaming Hunger,"May 30 2023, 09:38 am",Applied,linkedin.com,NULL
-"Frontend Engineer, Money Movement UX",Stripe,"May 30 2023, 09:35 am",Not Selected,linkedin.com,NULL
-Junior Backend Engineer,Tablet Hotels,"May 30 2023, 09:33 am",Applied,linkedin.com,NULL
-Staff Frontend Engineer - HRIS,Rippling,"May 30 2023, 09:32 am",Applied,linkedin.com,NULL
-Frontend Developer,Searchability,"May 30 2023, 09:25 am",Applied,linkedin.com,NULL
-Front End Engineer - Tools,Verkada,"May 30 2023, 09:22 am",Applied,linkedin.com,NULL
-Sr Software Engineer (Frontend),AMP,"May 16 2023, 02:29 pm",Not Selected,linkedin.com,NULL
-Staff Frontend Engineer (NYC or Remote US),RunwayML,"May 16 2023, 09:55 am",Not Selected,linkedin.com,NULL
-3d Javascript Game Developer (node + react + three.js),Bemba,"May 16 2023, 09:17 am",Applied,linkedin.com,NULL
-Frontend Developer,ASCENDER,"May 16 2023, 09:17 am",Applied,linkedin.com,NULL
-Full Stack Engineer,Ascendion,"May 16 2023, 09:15 am",Applied,linkedin.com,NULL
-Full Stack Engineer,Knockaround,"May 16 2023, 09:11 am",Not Selected,linkedin.com,NULL
-Full Stack Software Engineer,Dr. Squatch,"May 16 2023, 09:07 am",Not Selected,linkedin.com,NULL
-Front-End Engineer (Remote or Los Angeles),SDG,"May 15 2023, 12:06 pm",Applied,linkedin.com,NULL
-Software Engineer - React (Remote),Graylog,"May 11 2023, 04:52 pm",Applied,linkedin.com,NULL
-"Fullstack Engineer, Core & Monetization",Pinterest,"May 11 2023, 04:47 pm",Applied,linkedin.com,NULL
-Full Stack Developer,Aryaka Networks,"May 11 2023, 04:43 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Storm Media Group,"May 11 2023, 04:42 pm",Applied,linkedin.com,NULL
-Founding Software Engineer,MegaPath,"May 11 2023, 04:42 pm",Applied,linkedin.com,NULL
-Frontend Developer,Tromzo,"May 11 2023, 04:39 pm",Applied,linkedin.com,NULL
-"Software Engineer, Engine Systems",Blizzard Entertainment,"May 10 2023, 09:10 am",Not Selected,linkedin.com,NULL
-Software Development Engineer,Workday,"May 10 2023, 08:48 am",Not Selected,myworkdayjobs.com,NULL
-Full Stack Engineer,3rd party,"May 09 2023, 07:53 pm",Applied,linkedin.com,NULL
-Senior Full Stack Engineer,liblab,"May 09 2023, 07:51 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Plexus Resource Solutions,"May 09 2023, 07:46 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,WURL,"May 09 2023, 07:44 pm",Applied,linkedin.com,NULL
-Founding Full Stack Engineer,Stealth StartUp,"May 09 2023, 07:44 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Selective Service,"May 09 2023, 07:42 pm",Applied,linkedin.com,NULL
-Full Stack Software Engineer,Jobot,"May 09 2023, 07:42 pm",Applied,linkedin.com,NULL
-Full Stack Software Engineer,Insight Global,"May 09 2023, 07:41 pm",Applied,linkedin.com,NULL
-Web Developer (React/AWS),Eliassen Group,"May 09 2023, 01:28 pm",Applied,linkedin.com,NULL
-Full Stack Developer,Eliassen Group,"May 09 2023, 01:27 pm",Applied,linkedin.com,NULL
-Software Engineer,Eliassen Group,"May 09 2023, 01:18 pm",Applied,linkedin.com,NULL
-Junior Software Engineer Full Stack,PatternedScience,"May 08 2023, 03:12 pm",Applied,linkedin.com,NULL
-Junior Javascript Developer,Oracle,"May 08 2023, 12:18 pm",Applied,linkedin.com,NULL
-Software Developer 1,Oracle,"May 08 2023, 12:11 pm",Not Selected,linkedin.com,NULL
-General Interest,PriceSpider,"May 08 2023, 11:22 am",Applied,linkedin.com,NULL
-Senior Mobile Software Engineer - React Native,MetaMask,"May 08 2023, 10:34 am",Not Selected,consensys.net,NULL
-"Senior Software Engineer, Full Stack, Core",Google,"May 08 2023, 10:14 am",Applied,linkedin.com,NULL
-Senior React Front End Developer,ROSEAId,"May 08 2023, 09:55 am",Applied,linkedin.com,NULL
-Remote Front End Developer,Jobot,"May 08 2023, 09:53 am",Not Selected,linkedin.com,NULL
-Front End Developer,Rappler,"May 08 2023, 09:32 am",Applied,linkedin.com,NULL
-"Software Engineer, Front End",Atlassian,"May 08 2023, 09:28 am",Not Selected,linkedin.com,NULL
-Full Stack Software Engineer,ZipRecruiter,"May 08 2023, 09:09 am",Not Selected,linkedin.com,NULL
-Web Applications Developer,CalTech,"May 08 2023, 09:00 am",Not Selected,linkedin.com,NULL
-Remote - React Developer,Piper Companies,"May 08 2023, 08:55 am",Applied,linkedin.com,NULL
-Full-Stack Software Engineer,Atomic Mass Games,"May 08 2023, 08:52 am",Applied,linkedin.com,NULL
-Full-Stack Developer (React/Node),Strategic Employment Partners,"May 08 2023, 08:50 am",Applied,linkedin.com,NULL
-"Full Stack Engineer, Merchant Success",Stripe,"May 08 2023, 08:48 am",Not Selected,linkedin.com,NULL
-Software Engineer (Merchant Engineering),Affirm,"May 07 2023, 01:47 pm",Not Selected,linkedin.com,NULL
-Full Stack Engineer,Org Dev Solutions,"May 07 2023, 01:01 pm",Applied,linkedin.com,NULL
-"Software Development Engineer, Artist and Fan Experience",Amazon Music 92 3015 8000,"May 07 2023, 12:54 pm",Not Selected,linkedin.com,NULL
-Senior Software Engineer - Javascript,GoDisqo,"May 07 2023, 12:50 pm",Applied,linkedin.com,NULL
-REMOTE JavaScript Developer,CyberCoders,"May 07 2023, 12:49 pm",Applied,linkedin.com,NULL
-Full Stack Software Engineer,Insight Global,"May 07 2023, 12:47 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Stealth Startup - Climate / Energy Tech,"May 04 2023, 02:52 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Spatial Labs,"May 02 2023, 11:38 am",Not Selected,linkedin.com,NULL
-Frontend Engineer,Sigma Computing,"May 02 2023, 11:37 am",Not Selected,linkedin.com,NULL
-Web Developer,Power Digital,"May 02 2023, 11:21 am",Applied,linkedin.com,NULL
-Front-End Web Developer,XPRIZE,"May 01 2023, 02:08 pm",Applied,linkedin.com,NULL
-Developer (Entry Level ),PatternedScience,"Apr 27 2023, 01:57 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,Just Slide Media,"Apr 27 2023, 01:33 pm",Applied,linkedin.com,NULL
-Application Engineer,Snap,"Apr 27 2023, 10:49 am",Applied,myworkdaysite.com,NULL
-"Staff Frontend Software Engineer, Client Applications",Tubi TV,"Apr 27 2023, 10:34 am",Not Selected,linkedin.com,NULL
-Full Stack Engineer,Apple,"Apr 27 2023, 10:27 am",Not Selected,linkedin.com,NULL
-Full Stack Developer (high-growth Startup),Reebelo,"Apr 27 2023, 10:20 am",Not Selected,linkedin.com,NULL
-"Web Developer, Web Experience",Figma,"Apr 27 2023, 09:53 am",Applied,linkedin.com,NULL
-Frontend Engineer,Notable,"Apr 27 2023, 09:50 am",Applied,linkedin.com,NULL
-Frontend Software Engineer,Tailscale,"Apr 27 2023, 09:36 am",Applied,linkedin.com,NULL
-Front End Web Engineer,Absorb LMS,"Apr 27 2023, 09:22 am",Applied,linkedin.com,NULL
-Frontend/ UI Engineer - Apple Media Products,Apple,"Apr 26 2023, 11:03 am",Not Selected,linkedin.com,NULL
-Frontend Engineer - Web,Gametime,"Apr 25 2023, 12:48 pm",Not Selected,linkedin.com,NULL
-React - NextJS Developer,WizeHire,"Apr 25 2023, 12:46 pm",Applied,linkedin.com,NULL
-"Full Stack Software Engineer (React, JavaScript)- AMP Universal Media",Apple,"Apr 25 2023, 12:46 pm",Not Selected,linkedin.com,NULL
-"Software Engineer, Full-Stack - AI Scientist team",OpenAI,"Apr 25 2023, 12:45 pm",Applied,linkedin.com,NULL
-Full Stack Engineer,eBay,"Apr 25 2023, 12:45 pm",Not Selected,linkedin.com,NULL
-Full-stack Web Developer [Remote],Braintrust,"Apr 25 2023, 12:43 pm",Not Selected,linkedin.com,NULL
-Software Engineer (L4) - TV Platform Development Tools Hire Ahead,Netflix,"Apr 25 2023, 12:41 pm",Applied,linkedin.com,NULL
-Software Engineer II - Front-End (CX),StubHub,"Apr 25 2023, 12:32 pm",Not Selected,linkedin.com,NULL
-Software Engineer - React,BookoftheMonth,"Apr 25 2023, 12:29 pm",Follow-up,linkedin.com,NULL
-"Front End Engineer, Amazon Music , Amp",Amazon Music 92 3015 8000,"Apr 25 2023, 11:46 am",Not Selected,linkedin.com,NULL
-Full-Stack Engineer,Yahoo,"Apr 24 2023, 09:30 am",Not Selected,linkedin.com,NULL
+Full Stack Engineer III,Electronic Arts,"Jul 18 2023, 01:31 pm",Not Selected,linkedin.com,FALSE
+Software Engineer,SUGARED + BRONZED,"Jul 13 2023, 11:03 am",Applied,linkedin.com,FALSE
+Front-End Associate Software Engineer,Transcend Digital,"Jul 13 2023, 11:01 am",Applied,linkedin.com,FALSE
+"Frontend Software Engineer, Autopilot AI Tooling/Tesla Bot (3d/Graphics)",Tesla,"Jul 11 2023, 03:59 pm",Applied,linkedin.com,FALSE
+Senior Front End Engineer - Maps,Apple,"Jul 07 2023, 04:38 pm",Applied,apple.com,FALSE
+Junior Software Development Engineer - Apple Vision Pro,Apple,"Jul 07 2023, 04:37 pm",Applied,apple.com,FALSE
+Gameplay Software Engineer - The Sims,Maxis Studios,"Jul 06 2023, 10:41 am",Not Selected,linkedin.com,FALSE
+QA R&D Programmer,Naughty Dog Mag',"Jul 06 2023, 10:36 am",Applied,linkedin.com,FALSE
+Frontend Engineer,SixMap,"Jun 30 2023, 08:13 pm",Applied,workable.com,FALSE
+Catch-all,Perfect Storm Studios,"Jun 30 2023, 12:38 pm",Applied,linkedin.com,FALSE
+Mid-Level Web Developer - Remote,MeetKai,"Jun 30 2023, 12:36 pm",Applied,linkedin.com,FALSE
+Web Frontend Engineer,Luma AI,"Jun 30 2023, 12:32 pm",Not Selected,linkedin.com,FALSE
+Tools and Systems Engineer,Twisted Pixel Games,"Jun 30 2023, 12:21 pm",Applied,metacareers.com,FALSE
+Software Engineer II - Front-End / Full-Stack,StubHub,"Jun 27 2023, 12:00 pm",Not Selected,linkedin.com,FALSE
+"Frontend Developer, Analytics - Portfolio Company",BCG X,"Jun 27 2023, 11:57 am",Applied,linkedin.com,FALSE
+JavaScript Developer (Entry Level),PatternedScience,"Jun 27 2023, 11:53 am",Applied,linkedin.com,FALSE
+Front End Web Developer - #1484,MeridianLink,"Jun 27 2023, 11:49 am",Applied,linkedin.com,FALSE
+Front End Engineer,Cloudflare,"Jun 27 2023, 11:46 am",Not Selected,linkedin.com,FALSE
+"Front End Engineer, Factory Software",Tesla,"Jun 20 2023, 03:57 pm",Applied,linkedin.com,FALSE
+Front-End Software Engineer,SandboxAQ,"Jun 20 2023, 03:50 pm",Applied,linkedin.com,FALSE
+Frontend Software Engineer,Tailscale,"Jun 20 2023, 03:49 pm",Applied,linkedin.com,FALSE
+React Developer (100% remote),"Liberty Personnel Services, Inc.","Jun 20 2023, 03:46 pm",Applied,linkedin.com,FALSE
+100% Remote - Front End Developer,Launching Point,"Jun 20 2023, 03:39 pm",Applied,linkedin.com,FALSE
+Junior Software Engineer (Full stack),Praxis Labs,"Jun 15 2023, 02:02 pm",Applied,lever.co,FALSE
+Software Engineer,Art Blocks,"Jun 15 2023, 01:56 pm",Applied,lever.co,FALSE
+Frontend Developer,hackajob,"Jun 15 2023, 01:45 pm",Applied,linkedin.com,FALSE
+"Software Engineer, Front End-Reality Labs",Meta,"Jun 15 2023, 07:58 am",Applied,linkedin.com,FALSE
+"Software Engineer II, Pipelines & Workflows - Valorant",Riot Games,"Jun 15 2023, 07:53 am",Not Selected,linkedin.com,FALSE
+Build Automation Engineer - Infinity Ward,Infinity Ward,"Jun 12 2023, 12:08 pm",Not Selected,infinityward.com,FALSE
+Front End or Full Stack Developer,Mintplex,"Jun 12 2023, 11:46 am",Applied,ycombinator.com,FALSE
+\nSoftware Engineer - Gameplay (Narrative - Open Story),Electronic Arts,"Jun 12 2023, 09:32 am",Not Selected,gr8people.com,FALSE
+Tools Engineer - Unreal  (Star Wars FPS),Electronic Arts,"Jun 12 2023, 09:30 am",Applied,gr8people.com,FALSE
+Animation Tools Programmer,PlayStation,"Jun 12 2023, 09:12 am",Not Selected,linkedin.com,FALSE
+Software Engineer II,PlayStation,"Jun 12 2023, 09:09 am",Applied,linkedin.com,FALSE
+"Staff Software Engineer, Tools & Pipeline - Unpublished R&D Product",Riot Games,"Jun 12 2023, 09:02 am",Not Selected,linkedin.com,FALSE
+Front end Developer -,TheHive_Freelancing,"Jun 07 2023, 12:56 pm",Applied,linkedin.com,FALSE
+Software Engineer,Pomelo,"Jun 07 2023, 12:41 pm",Applied,linkedin.com,FALSE
+Software Engineer,Kickstarter,"Jun 07 2023, 12:28 pm",Applied,linkedin.com,FALSE
+"Software Engineer, NBC News Digital",NBC News,"Jun 06 2023, 03:48 pm",Not Selected,linkedin.com,FALSE
+Full-Stack Engineer,Tomedes,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,FALSE
+Frontend Developer,Hank,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,FALSE
+Frontend Enginer,Voltaiq,"Jun 05 2023, 03:20 pm",Not Selected,wellfound.com,FALSE
+Frontend Engineer,Ground signal,"Jun 05 2023, 03:19 pm",Not Selected,wellfound.com,FALSE
+Software Engineer - Full Stack at Numeral,Numeral,"Jun 05 2023, 03:01 pm",Not Selected,wellfound.com,FALSE
+"Software Engineer, Growth",Podium,"Jun 01 2023, 06:21 pm",Applied,linkedin.com,FALSE
+Software Engineer,impact.com,"Jun 01 2023, 06:10 pm",Applied,linkedin.com,FALSE
+"Experienced Software Engineer - Full Stack (Financial Institutions, Developer Experience)",Plaid,"Jun 01 2023, 06:01 pm",Applied,linkedin.com,FALSE
+Frontend Software Engineer (REACT) - Digital Experience,Tesla,"May 30 2023, 06:46 pm",Applied,linkedin.com,FALSE
+Software Engineer,Stealth StartUp,"May 30 2023, 05:21 pm",Applied,linkedin.com,FALSE
+Founding Engineer,Stealth StartUp,"May 30 2023, 05:19 pm",Applied,linkedin.com,FALSE
+Senior Front-end React Developer (Cross-Platform),Ninja Tech Stop,"May 30 2023, 05:16 pm",Not Selected,linkedin.com,FALSE
+Front-End Engineer (Energy),Synop,"May 30 2023, 05:14 pm",Applied,linkedin.com,FALSE
+Frontend Developer,Organic Return,"May 30 2023, 05:06 pm",Applied,linkedin.com,FALSE
+Software Engineer,Bing,"May 30 2023, 04:35 pm",Applied,linkedin.com,FALSE
+"Software Engineer, Front-End",Skillable,"May 30 2023, 01:37 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer - Integrations,Front,"May 30 2023, 01:29 pm",Not Selected,linkedin.com,FALSE
+"Software Engineer, Fullstack",Moveworks,"May 30 2023, 01:22 pm",Not Selected,linkedin.com,FALSE
+Software Developer,Protecta Insurance,"May 30 2023, 01:21 pm",Applied,linkedin.com,FALSE
+Software Engineer,Peloton,"May 30 2023, 01:19 pm",Not Selected,linkedin.com,FALSE
+Software Engineer,Impact,"May 30 2023, 01:15 pm",Applied,linkedin.com,FALSE
+Software Engineer I,Bank of America,"May 30 2023, 01:01 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Spatial Labs,"May 30 2023, 12:55 pm",Applied,linkedin.com,FALSE
+Associate Software Engineer,Hilton Grand Vacations,"May 30 2023, 12:54 pm",Applied,linkedin.com,FALSE
+"Software Engineer II (Full Stack, Growth)",WHOOP,"May 30 2023, 12:46 pm",Not Selected,linkedin.com,FALSE
+Web Developer - ReactJS,Insomniac Design,"May 30 2023, 12:21 pm",Applied,linkedin.com,FALSE
+Frontend Developer,Gorilla Mind,"May 30 2023, 12:17 pm",Applied,linkedin.com,FALSE
+Front End Developer (React),Abbott,"May 30 2023, 12:17 pm",Not Selected,linkedin.com,FALSE
+Front-End Engineer,Quadrata,"May 30 2023, 12:11 pm",Applied,linkedin.com,FALSE
+Full Stack Web Developer,Multiple,"May 30 2023, 12:09 pm",Applied,linkedin.com,FALSE
+Front End Engineer,eBay,"May 30 2023, 10:03 am",Not Selected,linkedin.com,FALSE
+Frontend Developer,Retool,"May 30 2023, 09:40 am",Applied,linkedin.com,FALSE
+"Software Engineer, Front-End (Grammarly for Developers)",Grammarly,"May 30 2023, 09:38 am",Not Selected,linkedin.com,FALSE
+Mid-level Full Stack Engineer,Roaming Hunger,"May 30 2023, 09:38 am",Applied,linkedin.com,FALSE
+"Frontend Engineer, Money Movement UX",Stripe,"May 30 2023, 09:35 am",Not Selected,linkedin.com,FALSE
+Junior Backend Engineer,Tablet Hotels,"May 30 2023, 09:33 am",Applied,linkedin.com,FALSE
+Staff Frontend Engineer - HRIS,Rippling,"May 30 2023, 09:32 am",Applied,linkedin.com,FALSE
+Frontend Developer,Searchability,"May 30 2023, 09:25 am",Applied,linkedin.com,FALSE
+Front End Engineer - Tools,Verkada,"May 30 2023, 09:22 am",Applied,linkedin.com,FALSE
+Sr Software Engineer (Frontend),AMP,"May 16 2023, 02:29 pm",Not Selected,linkedin.com,FALSE
+Staff Frontend Engineer (NYC or Remote US),RunwayML,"May 16 2023, 09:55 am",Not Selected,linkedin.com,FALSE
+3d Javascript Game Developer (node + react + three.js),Bemba,"May 16 2023, 09:17 am",Applied,linkedin.com,FALSE
+Frontend Developer,ASCENDER,"May 16 2023, 09:17 am",Applied,linkedin.com,FALSE
+Full Stack Engineer,Ascendion,"May 16 2023, 09:15 am",Applied,linkedin.com,FALSE
+Full Stack Engineer,Knockaround,"May 16 2023, 09:11 am",Not Selected,linkedin.com,FALSE
+Full Stack Software Engineer,Dr. Squatch,"May 16 2023, 09:07 am",Not Selected,linkedin.com,FALSE
+Front-End Engineer (Remote or Los Angeles),SDG,"May 15 2023, 12:06 pm",Applied,linkedin.com,FALSE
+Software Engineer - React (Remote),Graylog,"May 11 2023, 04:52 pm",Applied,linkedin.com,FALSE
+"Fullstack Engineer, Core & Monetization",Pinterest,"May 11 2023, 04:47 pm",Applied,linkedin.com,FALSE
+Full Stack Developer,Aryaka Networks,"May 11 2023, 04:43 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Storm Media Group,"May 11 2023, 04:42 pm",Applied,linkedin.com,FALSE
+Founding Software Engineer,MegaPath,"May 11 2023, 04:42 pm",Applied,linkedin.com,FALSE
+Frontend Developer,Tromzo,"May 11 2023, 04:39 pm",Applied,linkedin.com,FALSE
+"Software Engineer, Engine Systems",Blizzard Entertainment,"May 10 2023, 09:10 am",Not Selected,linkedin.com,FALSE
+Software Development Engineer,Workday,"May 10 2023, 08:48 am",Not Selected,myworkdayjobs.com,FALSE
+Full Stack Engineer,3rd party,"May 09 2023, 07:53 pm",Applied,linkedin.com,FALSE
+Senior Full Stack Engineer,liblab,"May 09 2023, 07:51 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Plexus Resource Solutions,"May 09 2023, 07:46 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,WURL,"May 09 2023, 07:44 pm",Applied,linkedin.com,FALSE
+Founding Full Stack Engineer,Stealth StartUp,"May 09 2023, 07:44 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Selective Service,"May 09 2023, 07:42 pm",Applied,linkedin.com,FALSE
+Full Stack Software Engineer,Jobot,"May 09 2023, 07:42 pm",Applied,linkedin.com,FALSE
+Full Stack Software Engineer,Insight Global,"May 09 2023, 07:41 pm",Applied,linkedin.com,FALSE
+Web Developer (React/AWS),Eliassen Group,"May 09 2023, 01:28 pm",Applied,linkedin.com,FALSE
+Full Stack Developer,Eliassen Group,"May 09 2023, 01:27 pm",Applied,linkedin.com,FALSE
+Software Engineer,Eliassen Group,"May 09 2023, 01:18 pm",Applied,linkedin.com,FALSE
+Junior Software Engineer Full Stack,PatternedScience,"May 08 2023, 03:12 pm",Applied,linkedin.com,FALSE
+Junior Javascript Developer,Oracle,"May 08 2023, 12:18 pm",Applied,linkedin.com,FALSE
+Software Developer 1,Oracle,"May 08 2023, 12:11 pm",Not Selected,linkedin.com,FALSE
+General Interest,PriceSpider,"May 08 2023, 11:22 am",Applied,linkedin.com,FALSE
+Senior Mobile Software Engineer - React Native,MetaMask,"May 08 2023, 10:34 am",Not Selected,consensys.net,FALSE
+"Senior Software Engineer, Full Stack, Core",Google,"May 08 2023, 10:14 am",Applied,linkedin.com,FALSE
+Senior React Front End Developer,ROSEAId,"May 08 2023, 09:55 am",Applied,linkedin.com,FALSE
+Remote Front End Developer,Jobot,"May 08 2023, 09:53 am",Not Selected,linkedin.com,FALSE
+Front End Developer,Rappler,"May 08 2023, 09:32 am",Applied,linkedin.com,FALSE
+"Software Engineer, Front End",Atlassian,"May 08 2023, 09:28 am",Not Selected,linkedin.com,FALSE
+Full Stack Software Engineer,ZipRecruiter,"May 08 2023, 09:09 am",Not Selected,linkedin.com,FALSE
+Web Applications Developer,CalTech,"May 08 2023, 09:00 am",Not Selected,linkedin.com,FALSE
+Remote - React Developer,Piper Companies,"May 08 2023, 08:55 am",Applied,linkedin.com,FALSE
+Full-Stack Software Engineer,Atomic Mass Games,"May 08 2023, 08:52 am",Applied,linkedin.com,FALSE
+Full-Stack Developer (React/Node),Strategic Employment Partners,"May 08 2023, 08:50 am",Applied,linkedin.com,FALSE
+"Full Stack Engineer, Merchant Success",Stripe,"May 08 2023, 08:48 am",Not Selected,linkedin.com,FALSE
+Software Engineer (Merchant Engineering),Affirm,"May 07 2023, 01:47 pm",Not Selected,linkedin.com,FALSE
+Full Stack Engineer,Org Dev Solutions,"May 07 2023, 01:01 pm",Applied,linkedin.com,FALSE
+"Software Development Engineer, Artist and Fan Experience",Amazon Music 92 3015 8000,"May 07 2023, 12:54 pm",Not Selected,linkedin.com,FALSE
+Senior Software Engineer - Javascript,GoDisqo,"May 07 2023, 12:50 pm",Applied,linkedin.com,FALSE
+REMOTE JavaScript Developer,CyberCoders,"May 07 2023, 12:49 pm",Applied,linkedin.com,FALSE
+Full Stack Software Engineer,Insight Global,"May 07 2023, 12:47 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Stealth Startup - Climate / Energy Tech,"May 04 2023, 02:52 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Spatial Labs,"May 02 2023, 11:38 am",Not Selected,linkedin.com,FALSE
+Frontend Engineer,Sigma Computing,"May 02 2023, 11:37 am",Not Selected,linkedin.com,FALSE
+Web Developer,Power Digital,"May 02 2023, 11:21 am",Applied,linkedin.com,FALSE
+Front-End Web Developer,XPRIZE,"May 01 2023, 02:08 pm",Applied,linkedin.com,FALSE
+Developer (Entry Level ),PatternedScience,"Apr 27 2023, 01:57 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,Just Slide Media,"Apr 27 2023, 01:33 pm",Applied,linkedin.com,FALSE
+Application Engineer,Snap,"Apr 27 2023, 10:49 am",Applied,myworkdaysite.com,FALSE
+"Staff Frontend Software Engineer, Client Applications",Tubi TV,"Apr 27 2023, 10:34 am",Not Selected,linkedin.com,FALSE
+Full Stack Engineer,Apple,"Apr 27 2023, 10:27 am",Not Selected,linkedin.com,FALSE
+Full Stack Developer (high-growth Startup),Reebelo,"Apr 27 2023, 10:20 am",Not Selected,linkedin.com,FALSE
+"Web Developer, Web Experience",Figma,"Apr 27 2023, 09:53 am",Applied,linkedin.com,FALSE
+Frontend Engineer,Notable,"Apr 27 2023, 09:50 am",Applied,linkedin.com,FALSE
+Frontend Software Engineer,Tailscale,"Apr 27 2023, 09:36 am",Applied,linkedin.com,FALSE
+Front End Web Engineer,Absorb LMS,"Apr 27 2023, 09:22 am",Applied,linkedin.com,FALSE
+Frontend/ UI Engineer - Apple Media Products,Apple,"Apr 26 2023, 11:03 am",Not Selected,linkedin.com,FALSE
+Frontend Engineer - Web,Gametime,"Apr 25 2023, 12:48 pm",Not Selected,linkedin.com,FALSE
+React - NextJS Developer,WizeHire,"Apr 25 2023, 12:46 pm",Applied,linkedin.com,FALSE
+"Full Stack Software Engineer (React, JavaScript)- AMP Universal Media",Apple,"Apr 25 2023, 12:46 pm",Not Selected,linkedin.com,FALSE
+"Software Engineer, Full-Stack - AI Scientist team",OpenAI,"Apr 25 2023, 12:45 pm",Applied,linkedin.com,FALSE
+Full Stack Engineer,eBay,"Apr 25 2023, 12:45 pm",Not Selected,linkedin.com,FALSE
+Full-stack Web Developer [Remote],Braintrust,"Apr 25 2023, 12:43 pm",Not Selected,linkedin.com,FALSE
+Software Engineer (L4) - TV Platform Development Tools Hire Ahead,Netflix,"Apr 25 2023, 12:41 pm",Applied,linkedin.com,FALSE
+Software Engineer II - Front-End (CX),StubHub,"Apr 25 2023, 12:32 pm",Not Selected,linkedin.com,FALSE
+Software Engineer - React,BookoftheMonth,"Apr 25 2023, 12:29 pm",Follow-up,linkedin.com,FALSE
+"Front End Engineer, Amazon Music , Amp",Amazon Music 92 3015 8000,"Apr 25 2023, 11:46 am",Not Selected,linkedin.com,FALSE
+Full-Stack Engineer,Yahoo,"Apr 24 2023, 09:30 am",Not Selected,linkedin.com,FALSE
