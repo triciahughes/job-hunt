@@ -1,29 +1,8 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import OverviewChart from "../charts/overviewChart";
 
-export default function Overview() {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    getData();
-  }, []);
-
-  const getData = async () => {
-    fetch("http://localhost:3000/api", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    })
-      .then((res) => {
-        return res.json();
-      })
-      .then((data) => {
-        setData(data.data.map((d: any) => d).slice(3));
-      });
-  };
-
+export default function Overview({ data }: { data: any }) {
   return (
     <div>
       <h1

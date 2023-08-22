@@ -1,5 +1,5 @@
 "use client";
-import React, { useRef, useEffect, Key } from "react";
+import React, { useRef, useEffect } from "react";
 import * as d3 from "d3";
 import { sankey, sankeyLinkHorizontal } from "d3-sankey";
 
@@ -43,7 +43,7 @@ export default function D3Chart({ data }: HandleChartProps) {
   });
 
   const statusColors = {
-    Applied: "purple",
+    Applied: `#a637de`,
     "Not Selected": "#ea4335",
     Interview: "#fbbc05",
     "Follow-up": "#fbbc05",
@@ -196,8 +196,7 @@ export default function D3Chart({ data }: HandleChartProps) {
       .attr("stroke", "none")
       .attr("stroke-width", 2)
       .transition(t)
-      .style("Fill", "black");
-    //   .attr("fill", "purple");
+      .style("Fill", "white");
   }, [data]);
 
   return (
@@ -215,7 +214,7 @@ export default function D3Chart({ data }: HandleChartProps) {
       >
         <h3>
           Total Applications:{" "}
-          <span style={{ color: "purple" }}>{totalApplications}</span>
+          <span style={{ color: "#a637de" }}>{totalApplications}</span>
         </h3>
         <h3>
           Total Rejections:{" "}
