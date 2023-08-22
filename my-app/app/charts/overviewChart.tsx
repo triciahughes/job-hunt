@@ -1,21 +1,39 @@
 "use client";
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, Key } from "react";
 import * as d3 from "d3";
 import { sankey, sankeyLinkHorizontal } from "d3-sankey";
 
 const ChartConfig = {
   width: window.innerWidth * 0.9,
   height: 700,
-  //   color: "red",
 };
 
+interface ApplicationData {
+  source: string;
+  target: string;
+}
+
+interface SankeyNode {
+  name: string;
+}
+
+interface SankeyLink {
+  source: number;
+  target: number;
+  value: number;
+}
+
+interface SankeyData {
+  nodes: SankeyNode[];
+  links: SankeyLink[];
+}
+
 interface HandleChartProps {
-  data: any[];
+  data: (string | boolean)[][];
 }
 
 export default function D3Chart({ data }: HandleChartProps) {
-  const ref = useRef();
-  //   console.log(data);
+  const ref = useRef<SVGSVGElement>(null);
 
   const applicationData = data.map((d: any, index: number) => {
     return {
@@ -94,24 +112,7 @@ export default function D3Chart({ data }: HandleChartProps) {
   useEffect(() => {
     if (!data || data.length === 0) return;
 
-    // const sankeyData = {
-    //   nodes: [
-    //     { name: "A" },
-    //     { name: "B" },
-    //     { name: "C" },
-    //     { name: "D" },
-    //     { name: "E" },
-    //   ],
-    //   links: [
-    //     { source: 0, target: 1, value: 1 },
-    //     { source: 0, target: 2, value: 1 },
-    //     { source: 1, target: 3, value: 1 },
-    //     { source: 2, target: 3, value: 1 },
-    //   ],
-    // };
-
     const sankeyData = transformToSankeyData(applicationData);
-    // console.log("Sankey Data:", JSON.stringify(sankeyData, null, 2));
 
     const svg = d3
       .select(ref.current)
@@ -173,24 +174,42 @@ export default function D3Chart({ data }: HandleChartProps) {
       .enter()
       .append("rect")
       .attr("class", "node")
-      .attr("x", (d) => (isNaN(d.x0) ? 0 : d.x0))
-      .attr("y", (d) => (isNaN(d.y0) ? 0 : d.y0))
-      .attr("height", (d) => (isNaN(d.y1 - d.y0) ? 0 : d.y1 - d.y0))
+      .attr("x", (d: any) => (isNaN(d.x0) ? 0 : d.x0))
+      .attr("y", (d: any) => (isNaN(d.y0) ? 0 : d.y0))
+      .attr("height", (d: any) => (isNaN(d.y1 - d.y0) ? 0 : d.y1 - d.y0))
 
-      .attr("width", (d) => (isNaN(d.x1 - d.x0) ? 0 : d.x1 - d.x0))
+      .attr("width", (d: any) => (isNaN(d.x1 - d.x0) ? 0 : d.x1 - d.x0))
       .attr("stroke", "none")
       .attr("stroke-width", 2)
-      .attr("fill", "none");
+      .attr("fill", "purple");
   }, [data]);
 
   return (
-    <>
+    <div style={{ marginLeft: 50 }}>
       <svg ref={ref} style={{ border: "1px solid black" }}></svg>
-      <div>
-        <h3>Total Applications: {totalApplications}</h3>
-        <h3>Total Rejections: {totalRejections}</h3>
-        <h3>Total Technical Challenges: {totalTechnical}</h3>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          marginTop: 15,
+          marginLeft: 15,
+          fontFamily: "Sans-serif",
+          maxWidth: window.innerWidth * 0.88,
+        }}
+      >
+        <h3>
+          Total Applications:{" "}
+          <span style={{ color: "purple" }}>{totalApplications}</span>
+        </h3>
+        <h3>
+          Total Rejections:{" "}
+          <span style={{ color: "#ea4335" }}>{totalRejections}</span>
+        </h3>
+        <h3>
+          Total Technical Challenges:{" "}
+          <span style={{ color: "#fbbc05" }}>{totalTechnical}</span>
+        </h3>
       </div>
-    </>
+    </div>
   );
 }
