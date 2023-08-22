@@ -18,7 +18,7 @@ export default function Navbar() {
     if (value === 0) {
       return <Overview />;
     } else if (value === 1) {
-      return <div>?</div>;
+      return <div>Additional Stats</div>;
     } else if (value === 2) {
       return <div>About Me</div>;
     }
@@ -26,11 +26,11 @@ export default function Navbar() {
 
   return (
     <>
-      <Box sx={{ width: "100%", bgcolor: "background.paper" }}>
-        <Tabs value={value} onChange={handleChange} centered>
-          <Tab label="Overview" />
-          <Tab label="?" />
-          <Tab label="About Me" />
+      <Box sx={{ width: "100%", bgcolor: "black" }}>
+        <Tabs value={value} onChange={handleChange} centered textColor='White'>
+          <Tab label='Overview' />
+          <Tab label='Additional Stats' />
+          <Tab label='About Me' />
         </Tabs>
       </Box>
       {handleTabView()}

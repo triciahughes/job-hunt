@@ -1,7 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import OverviewChart from "../charts/overviewChart";
-import { Margin, Padding } from "@mui/icons-material";
 
 export default function Overview() {
   const [data, setData] = useState([]);

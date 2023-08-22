@@ -124,6 +124,7 @@ export default function D3Chart({ data }: HandleChartProps) {
       .nodePadding(10)
       .size([ChartConfig.width, ChartConfig.height]);
     const graph = sankeyGenerator(sankeyData);
+    const t = d3.transition().duration(5000).ease(d3.easePolyOut.exponent(2));
 
     svg
       .append("g")
@@ -133,9 +134,19 @@ export default function D3Chart({ data }: HandleChartProps) {
       .append("path")
       .attr("class", "link")
       .attr("d", sankeyLinkHorizontal())
-      .attr("stroke", (d: any) => statusColors[d.target.name] || "#0077b6")
+      .style("stroke", (d: any) => statusColors[d.target.name] || "#0077b6")
       .attr("stroke-width", (d: any) => Math.max(1, d.width))
-      .attr("fill", "none");
+      .attr("fill", "none")
+      .attr("stroke-dasharray", function () {
+        return this.getTotalLength() + " " + this.getTotalLength();
+      })
+      .attr("stroke-dashoffset", function () {
+        return this.getTotalLength();
+      })
+      .transition()
+      .duration(1000)
+      .delay((d, i) => i * 10) // staggered delay: 100ms between each link
+      .attr("stroke-dashoffset", 0);
 
     // Add a single label for all links originating from "Applied"
     svg
@@ -145,7 +156,8 @@ export default function D3Chart({ data }: HandleChartProps) {
       .attr("dy", ".35em") // Adjust vertical alignment
       .text(`${totalApplications - totalRejections} Pending`)
       .style("font-size", "12px")
-      .attr("fill", "white");
+      .transition(t)
+      .style("fill", "white");
 
     // Add a single label for all links originating from "Not Selected"
     svg
@@ -155,7 +167,8 @@ export default function D3Chart({ data }: HandleChartProps) {
       .attr("dy", ".35em") // Adjust vertical alignment
       .text(`${totalRejections} Not Selected`)
       .style("font-size", "12px")
-      .attr("fill", "white");
+      .transition(t)
+      .style("fill", "white");
 
     // Add a single label for all links originating from "Interview / Follow-up"
     svg
@@ -165,7 +178,8 @@ export default function D3Chart({ data }: HandleChartProps) {
       .attr("dy", ".35em") // Adjust vertical alignment
       .text("Interview / Follow-up")
       .style("font-size", "12px")
-      .attr("fill", "white");
+      .transition(t)
+      .style("fill", "white");
 
     svg
       .append("g")
@@ -181,7 +195,9 @@ export default function D3Chart({ data }: HandleChartProps) {
       .attr("width", (d: any) => (isNaN(d.x1 - d.x0) ? 0 : d.x1 - d.x0))
       .attr("stroke", "none")
       .attr("stroke-width", 2)
-      .attr("fill", "purple");
+      .transition(t)
+      .style("Fill", "black");
+    //   .attr("fill", "purple");
   }, [data]);
 
   return (
