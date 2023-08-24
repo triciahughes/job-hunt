@@ -8,16 +8,6 @@ const ChartConfig = {
 };
 
 const pieChartColors = [
-  //   "#ffffff",
-  //   "#607d8b",
-  //   "#9e9e9e",
-  //   "#795548",
-  //   "#ff5722",
-  //   "#ff9800",
-  //   "#ffc107",
-  //   "#ffeb3b",
-  //   "#cddc39",
-  //   "#8bc34a",
   "#4caf50",
   "#009688",
   "#00bcd4",
@@ -26,8 +16,6 @@ const pieChartColors = [
   "#3f51b5",
   "#673ab7",
   "#9c27b0",
-  //   "#e91e63",
-  //   "#f44336",
 ];
 
 const PieChart = ({ data }: { data: any }) => {
@@ -41,6 +29,32 @@ const PieChart = ({ data }: { data: any }) => {
     acc[site] = (acc[site] || 0) + 1;
     return acc;
   }, {});
+
+  const totalLi = counts["linkedin.com"];
+  const totalWell = counts["wellfound.com"];
+  const totalRemote = counts["remoterocketship.com"];
+  const totalIndeed = counts["indeed.com"];
+
+  const totalCompanySite =
+    counts["apple.com"] +
+    counts["gr8people.com"] +
+    counts["ixl.com"] +
+    counts["lever.co"];
+
+  const totalOther =
+    counts["Other"] +
+    counts["consensys.net"] +
+    counts["frameable.com"] +
+    counts["greenhouse.io"] +
+    counts["infinityward.com"] +
+    counts["jobvite.com"] +
+    counts["metacareers.com"] +
+    counts["workable.com"] +
+    counts["myworkdayjobs.com"] +
+    counts["myworkdaysite.com"] +
+    counts["reyrey.com"] +
+    counts["workable.com"] +
+    counts["ycombinator.com"];
 
   useEffect(() => {
     if (!data || data.length === 0) return;
@@ -92,11 +106,15 @@ const PieChart = ({ data }: { data: any }) => {
         </h3>
         <div style={{ display: "flex", alignItems: "center" }}>
           <svg ref={ref}></svg>
-          <div style={{ marginLeft: 15, paddingBottom: 5 }}>
-            <h4>Site</h4>
-            <h4>Site</h4>
-            <h4>Site</h4>
-            <h4>Site</h4>
+          <div style={{ marginLeft: 15 }}>
+            <h4 style={{ color: "#03a9f4" }}>{totalLi} LinkedIn</h4>
+            <h4 style={{ color: "#9c27b0" }}>{totalWell} Wellfound</h4>
+            <h4 style={{ color: "#4caf50" }}>{totalRemote} RemoteRocket</h4>
+            <h4 style={{ color: "#009688" }}>{totalIndeed} Indeed</h4>
+            <h4 style={{ color: "#673ab7" }}>
+              {totalCompanySite} Company Site
+            </h4>
+            <h4 style={{ color: "#3f51b5" }}>{totalOther} Others</h4>
           </div>
         </div>
       </div>
